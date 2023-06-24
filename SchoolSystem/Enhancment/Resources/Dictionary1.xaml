@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="Button">
+        <Style.Resources>
+            <Style TargetType="Border">
+                <Setter Property="CornerRadius" Value="4" />
+                <Setter Property="Background" Value="Gray"/>
+            </Style>
+        </Style.Resources>
+    </Style>
+</ResourceDictionary>

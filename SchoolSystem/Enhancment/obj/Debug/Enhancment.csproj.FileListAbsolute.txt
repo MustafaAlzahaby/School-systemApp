@@ -1,0 +1,34 @@
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\bin\Debug\Enhancment.exe.config
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\bin\Debug\Enhancment.exe
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\bin\Debug\Enhancment.pdb
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.csproj.AssemblyReference.cache
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Resources\Dictionary1.baml
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\View\Window.g.cs
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\App.g.cs
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment_MarkupCompile.cache
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment_MarkupCompile.lref
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\View\Window.baml
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.g.resources
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.Properties.Resources.resources
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.csproj.GenerateResource.cache
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.csproj.CoreCompileInputs.cache
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.exe
+C:\Users\Fc\source\repos\Project Teacher\Enhancment\obj\Debug\Enhancment.pdb
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\bin\Debug\Enhancment.exe.config
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\bin\Debug\Enhancment.exe
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\bin\Debug\Enhancment.pdb
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.csproj.AssemblyReference.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.csproj.SuggestedBindingRedirects.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Resources\Dictionary1.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\View\Window.g.cs
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\App.g.cs
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment_MarkupCompile.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment_MarkupCompile.lref
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\View\Window.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.g.resources
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.Properties.Resources.resources
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.csproj.GenerateResource.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.csproj.CoreCompileInputs.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.exe
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Teacher App\Enhancment\obj\Debug\Enhancment.pdb

@@ -1,0 +1,17 @@
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\bin\Debug\Project Teacher.exe.config
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\bin\Debug\Project Teacher.exe
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.csproj.AssemblyReference.cache
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Resources\Dictionary1.baml
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\View\Window.g.cs
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\App.g.cs
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher_MarkupCompile.cache
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher_MarkupCompile.lref
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\App.baml
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\View\Window.baml
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.g.resources
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project_Teacher.Properties.Resources.resources
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.csproj.GenerateResource.cache
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.csproj.CoreCompileInputs.cache
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.exe
+C:\Users\Fc\source\repos\Project Teacher\Project Teacher\obj\Debug\Project Teacher.pdb

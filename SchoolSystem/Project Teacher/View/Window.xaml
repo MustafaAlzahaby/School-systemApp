@@ -1,0 +1,78 @@
+﻿<Window x:Class="Project_Teacher.View.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_Teacher.View" xmlns:viewmodel="clr-namespace:Project_Teacher.ViewModel" d:DataContext="{d:DesignInstance Type=viewmodel:WindowViewModel}"
+        mc:Ignorable="d"
+       Title="Teachers" Height="400" Width="784">
+    <Border CornerRadius="5" Width="770"  BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left">
+        <TabControl>
+            <TabItem Header="Teachers">
+
+                <Grid Background="Beige" Width="790" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="98*"/>
+                        <RowDefinition Height="75*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="105"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0" Grid.RowSpan="2">
+                        <TextBlock  Text="Pick a Teacher :" FontWeight="Bold" Margin="3 5 0 0"></TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Text="*ID :" FontWeight="Bold" Margin="5 80 0 0" Height="17" RenderTransformOrigin="0.686,-1.554"></TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Text="*Name :" FontWeight="Bold" Margin="5 10 0 10"></TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Text="*Age :" FontWeight="Bold" Margin="5 10 0 10"></TextBlock>
+                        <TextBlock HorizontalAlignment="Center" Text="*Subject to Teach :" FontWeight="Bold" Margin="5 10 0 10"></TextBlock>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Grid.RowSpan="2">
+                        <ComboBox x:Name="combo" HorizontalAlignment="Left" Width="472" Margin="2 2 2 0" Height="20" SelectedIndex="0" SelectedItem="{Binding SelectedTeacher}" ItemsSource="{Binding TeachList}">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock x:Name="block" Text="{Binding Name}"></TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                        <TextBlock Visibility="Visible" HorizontalAlignment="Center" Text="Teachers Database " Margin="3 5 0 -100" Foreground="#FFA58F8F" Height="90" Width="472" FontFamily="ItalicT" FontWeight="Bold" FontSize="24" Cursor="" AutomationProperties.IsOffscreenBehavior="Onscreen"/>
+                        <TextBlock x:Name="please" Visibility="Visible" HorizontalAlignment="Center" Text="** Please fill the teacher info Down below ** " Margin="3 5 0 -200" Foreground="#FF645F5F" Height="102" Width="430" FontWeight="Bold"/>
+                        <TextBox HorizontalAlignment="Left" Width="470" Text="{Binding ItemInEditMode.ID}" Margin="5 80 5 0"></TextBox>
+                        <TextBox HorizontalAlignment="Left" Width="470" Text="{Binding ItemInEditMode.Name}" Margin="5 10 5 0"></TextBox>
+                        <TextBox HorizontalAlignment="Left" Width="470" Text="{Binding ItemInEditMode.Age}" Margin="5 15 5 0"></TextBox>
+                        <TextBox HorizontalAlignment="Left" Width="470" Text="{Binding ItemInEditMode.Subject}" Margin="5 20 5 0"></TextBox>
+                        <Image Margin="440,-150,-20,0" Width="172" Height="190" Source="{Binding ItemInEditMode.Image}" HorizontalAlignment="Center" ></Image>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.RowSpan="2">
+                        <TextBlock x:Name="Pp"  Visibility="Visible" Text="Personal Photo" FontWeight="Bold" Margin="535 40" Foreground="#FFA58F8F" Width="92" Grid.Column="1" />
+                    </StackPanel>
+                    <StackPanel Grid.Column="1" Orientation="Horizontal" Grid.RowSpan="2">
+                        <Button Command="{Binding AddNew}" Content="Add" HorizontalAlignment="Center" Margin="170 250 10 0" Width="50" Height="30" Click="Button_Click" Foreground="#FF561E1E">
+                            <Button.Effect>
+                                <DropShadowEffect></DropShadowEffect>
+                            </Button.Effect>
+                        </Button>
+
+                        <Button x:Name="Sv" Command="{Binding SaveNew}" Visibility="Visible" Content="Save" HorizontalAlignment="Center" Margin="10 250 10 0" Width="50" Height="30" Click="Sv_Click">
+                            <Button.Effect>
+                                <DropShadowEffect></DropShadowEffect>
+                            </Button.Effect>
+                        </Button>
+                        <Button CommandParameter="{Binding ElementName=combo, Path=SelectedItem}" Command="{Binding RemoveTeacher}" Content="Remove" HorizontalAlignment="Center" Margin="10 250 0 0" Width="50" Height="30">
+                            <Button.Effect>
+                                <DropShadowEffect></DropShadowEffect>
+                            </Button.Effect>
+                        </Button>
+                        <Button x:Name="Uphoto" Command="{Binding UploadPhoto}" Visibility="Visible" Content="Upload Photo" HorizontalAlignment="Center" Margin="170 250 0 0" Width="100" Height="30" Click="Button_Click">
+                            <Button.Effect>
+                                <DropShadowEffect></DropShadowEffect>
+                            </Button.Effect>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Border>
+</Window>

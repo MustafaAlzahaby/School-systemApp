@@ -1,0 +1,36 @@
+C:\Users\Fc\source\repos\Project\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Fc\source\repos\Project\Calculator\bin\Debug\Calculator.exe
+C:\Users\Fc\source\repos\Project\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\App.g.cs
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.exe
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Resources\BResources.baml
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.g.cs
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\App.baml
+C:\Users\Fc\source\repos\Project\Calculator\obj\Debug\Calculator.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Resources\BResources.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.g.cs
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\App.g.cs
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\App.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.baml
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\ITI CEI\Windows Presentation Foundation WPF\WPF Project\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="Calculator" Background="WhiteSmoke" Height="400" Width="350" MinWidth="350" MaxWidth="350" MaxHeight="280" MinHeight="280">
+    <!--#region Grid-->
+    <Grid>
+        <StackPanel >
+            <StackPanel Margin="5 5 5 5" Orientation="Horizontal" >
+                <TextBox x:Name="Screen" BorderThickness="2" BorderBrush="Black" Width="210" Height="70"/>
+                <Button BorderBrush="Transparent" Background="WhiteSmoke" x:Name="Back" Height="30" Width="60" Margin="25 10 0 10" Click="Back_Click">
+                    <Image Source="C:\Users\Fc\Desktop\images.png"></Image>
+                </Button>
+            </StackPanel>
+            
+            <StackPanel Margin="2 2 2 0" Orientation="Horizontal">
+                <Button x:Name="Seven" Content="7" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Seven_Click"/>
+                <Button x:Name="Eight" Content="8" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Eight_Click"/>
+                <Button x:Name="Nine" Content="9" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Nine_Click"/>
+                <Button x:Name="lPar" Content="(" Margin="10 0 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="lPar_Click"/>
+                <Button x:Name="rPar" Content=")" HorizontalAlignment="Left" Width="60" Height="35" Click="rPar_Click"/>
+            </StackPanel>
+
+            <StackPanel Margin="2 2 2 0" Orientation="Horizontal">
+                <Button x:Name="Four" Content="4" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Four_Click"/>
+                <Button x:Name="Five" Content="5" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Five_Click"/>
+                <Button x:Name="Six" Content="6" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Six_Click"/>
+                <Button x:Name="Plus" Content="+" Margin="10 0 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Plus_Click"/>
+                <Button x:Name="Minus" Content="-" HorizontalAlignment="Left" Width="60" Height="35" Click="Minus_Click"/>
+            </StackPanel>
+            
+            <StackPanel Margin="2 2 2 0" Orientation="Horizontal">
+                <Button x:Name="One" Content="1" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="One_Click"/>
+                <Button x:Name="Two" Content="2" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Two_Click"/>
+                <Button x:Name="Three" Content="3" Margin="2 2 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Three_Click"/>
+                <Button x:Name="Mult" Content="*" Margin="10 0 2 0" HorizontalAlignment="Left" Width="60" Height="35" Click="Mult_Click"/>
+                <Button x:Name="Div" Content="/" HorizontalAlignment="Left" Width="60" Height="35" Click="Div_Click"/>
+            </StackPanel>
+            
+            <StackPanel Margin="2" Orientation="Horizontal">
+                <Button x:Name="Point" Content="." Margin="2" HorizontalAlignment="Left" Width="60" Height="35" Click="Point_Click"/>
+                <Button x:Name="Zero"  Content="0" Margin="2" HorizontalAlignment="Left" Width="60" Height="35" Click="Zero_Click"/>
+                <Button x:Name="Char"  Content="C" Margin="2" HorizontalAlignment="Left" Width="60" Height="35" Click="Char_Click"/>
+                <Button x:Name="Equal" Content="=" Margin="10 0 10 0" HorizontalAlignment="Left" Width="122" Height="35" Click="Equal_Click">
+                    <Button.Effect>
+                        <DropShadowEffect></DropShadowEffect>
+                    </Button.Effect>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+    <!--#endregion-->
+</Window>
